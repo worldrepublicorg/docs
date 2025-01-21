@@ -1,7 +1,7 @@
 {
     "grant-overview": "Get a Grant",
-    "collective-grant-policy": {
-        "title": "Collective Grant Policies",
+    "republic-grant-policy": {
+        "title": "Republic Grant Policies",
         "href": "https://gov.optimism.io/t/collective-grant-policies/5833",
         "newWindow": true
     },

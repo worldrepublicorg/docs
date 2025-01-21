@@ -1,7 +1,7 @@
 {
     "delegate-op": {
-        "title": "How do I delegate my OP?",
-        "href": "/token-house/how-to-delegate",
+        "title": "How do I delegate my drachma?",
+        "href": "/world-assembly/how-to-delegate",
         "newWindow": false
     },
     "delegate-expectations": {
@@ -11,9 +11,9 @@
     },
     "contribute": {
         "title": "Where are Foundation Missions?",
-        "href": "https://github.com/ethereum-optimism/ecosystem-contributions/issues?q=is%3Aissue+is%3Aopen+label%3A%22Foundation+Mission+Request%22",
+        "href": "https://github.com/worldrepublicorg/ecosystem-contributions/issues?q=is%3Aissue+is%3Aopen+label%3A%22Foundation+Mission+Request%22",
         "newWindow": true
      },
     "dashboard-trackers": "Dashboards and Trackers",   
-    "what-is-the-optimism-foundation": "What is the Optimism Foundation?"
+    "what-is-the-world-republic-foundation": "What is the World Republic Foundation?"
 }
