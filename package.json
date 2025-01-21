@@ -1,7 +1,7 @@
 {
   "name": "op-docs",
   "version": "0.0.1",
-  "description": "Optimism Docs",
+  "description": "World Republic Docs",
   "packageManager": "pnpm@9.1.0",
   "scripts": {
     "lint": "eslint . --ext mdx --max-warnings 0 && pnpm spellcheck:lint",

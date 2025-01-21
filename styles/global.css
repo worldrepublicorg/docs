@@ -48,3 +48,7 @@ span.shasum code {
   background-color: transparent !important;
 }
 
+footer {
+  display: none;
+}
+

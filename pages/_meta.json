@@ -43,16 +43,16 @@
     "title": "Get a Grant",
     "type": "page"
   },
-  "token-house": {
-    "title": "Token House",
-    "type": "page"
-  },
-  "op-token": {
-    "title": "OP Token",
-    "type": "page"
-  },
   "citizens-house": {
     "title": "Citizens House",
+    "type": "page"
+  },
+  "drachma": {
+    "title": "Drachma",
+    "type": "page"
+  },
+  "world-assembly": {
+    "title": "World Assembly",
     "type": "page"
   },
   "research": {
