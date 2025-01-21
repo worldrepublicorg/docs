@@ -1,13 +1,13 @@
 {
-    "token-house-overview": "Overview",
+    "world-assembly-overview": "Overview",
     "--- DELEGATES": {
         "title": "DELEGATES",
         "type": "separator"
     },
-    "how-to-delegate": "How to Delegate OP Tokens",
+    "how-to-delegate": "How to Delegate Drachmas",
     "delegate-expectations": "Delegate Expectations",
     "optimist-expectations": {
-        "title": "Optimist Expectations",
+        "title": "World Republic Expectations",
         "href": "https://gov.optimism.io/t/optimist-expectations/7241",
         "newWindow": true
     },	
@@ -30,7 +30,7 @@
         "title": "HISTORY & DATA",
         "type": "separator"
     },
-    "token-house-history": "Token House Season History",
+    "token-house-history": "World Assembly Season History",
     "token-house-data": {
         "title": "Delegate Vote Weight (Dune)",
         "href": "https://dune.com/optimismfnd/optimism-op-token-house",

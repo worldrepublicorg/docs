@@ -24,6 +24,9 @@ const config: DocsThemeConfig = {
   project: {
     link: 'https://github.com/worldrepublicorg/docs',
   },
+  chat: {
+    link: "https://discord.gg/optimism",
+  },
   docsRepositoryBase: 'https://github.com/worldrepublicorg/docs/blob/main/',
   footer: {
     text: (
@@ -79,7 +82,7 @@ const config: DocsThemeConfig = {
           property="og:description"
           content={frontMatter.description || 'World Republic Docs for members'}
         />
-        <link rel="icon" href="/img/icons/favicon.ico" type="image/x-icon"></link>
+        <link rel="icon" href="/logos/favicon.png" type="image/png"></link>
       </>
     )
   },

@@ -39,20 +39,20 @@
     "title": "Welcome",
     "type": "page"
   },
-  "grant": {
-    "title": "Get a Grant",
+  "citizens-house": {
+    "title": "Citizens' House",
     "type": "page"
   },
-  "citizens-house": {
-    "title": "Citizens House",
+  "world-assembly": {
+    "title": "World Assembly",
     "type": "page"
   },
   "drachma": {
     "title": "Drachma",
     "type": "page"
   },
-  "world-assembly": {
-    "title": "World Assembly",
+  "grant": {
+    "title": "Get a grant",
     "type": "page"
   },
   "research": {
@@ -67,13 +67,8 @@
     "title": "Contribute",
     "type": "page"
   },
-  
-  "+++ CONNECT": {
-    "title": "",
-    "type": "separator"
-  },
   "--- CONNECT": {
-    "title": "Connect",
+    "title": "CONNECT",
     "type": "separator"
   },
   "connect": {
