@@ -1,20 +1,20 @@
 /docs/governance/ /welcome/welcome-overview 301
 /docs/governance/media/ https://www.youtube.com/channel/UCy9EVw1XTHqPU3NNisoAVXw 301
 /docs/governance/get-a-grant/ /grant/grant-overview 301
-/docs/governance/howto-delegate/ /token-house/how-to-delegate 301
-/docs/governance/economics/ /op-token/op-token-overview 301
-/docs/governance/allocations/ /op-token/op-token-overview 301
-/docs/governance/airdrop-4/ /op-token/airdrops/airdrop-4 301
-/docs/governance/airdrop-3/ /op-token/airdrops/airdrop-3 301
-/docs/governance/airdrop-2/ /op-token/airdrops/airdrop-2 301
-/docs/governance/airdrop-1/ /op-token/airdrops/airdrop-1 301
-/docs/governance/delegate/ /token-house/delegate-expectations 301
-/docs/governance/existing-delegate/ /token-house/delegate-expectations 301
+/docs/governance/howto-delegate/ /world-assembly/how-to-elect 301
+/docs/governance/economics/ /drachma/drachma-overview 301
+/docs/governance/allocations/ /drachma/drachma-overview 301
+/docs/governance/airdrop-4/ /drachma/airdrops/airdrop-4 301
+/docs/governance/airdrop-3/ /drachma/airdrops/airdrop-3 301
+/docs/governance/airdrop-2/ /drachma/airdrops/airdrop-2 301
+/docs/governance/airdrop-1/ /drachma/airdrops/airdrop-1 301
+/docs/governance/delegate/ /world-assembly/representative-expectations 301
+/docs/governance/existing-delegate/ /world-assembly/representative-expectations 301
 /docs/governance/delegate-info/ https://dune.com/optimismfnd/optimism-op-token-house 301
 /docs/governance/proposals/ /grant/grant-overview 301
 /docs/governance/token-house/ /welcome/welcome-overview 301
-/docs/governance/token-house-history/ /token-house/token-house-history 301
-/docs/governance/gov-fund/ /token-house/gov-fund-overview 301
+/docs/governance/token-house-history/ /world-assembly/world-assembly-history 301
+/docs/governance/gov-fund/ /world-assembly/gov-fund-overview 301
 /docs/governance/law-of-chains-disclaimer/ /welcome/governing-docs/law-of-chains-disclaimer 301
 /docs/governance/what-is-the-optimism-foundation/ /welcome/faq/what-is-the-optimism-foundation 301
 /docs/citizen-house/ /citizens-house/citizen-house-overview 301
@@ -41,4 +41,4 @@
 /docs/contribute/contribution-path/Ambassador-req/ /contribute/contribution-path/ambassador-req 301
 /docs/contribute/demo-day/ /contribute/demo-day 301
 /docs/biz/ /grant/get-support 301
-/docs/governance/airdrop-5  /op-token/airdrops/airdrop-5
+/docs/governance/airdrop-5  /drachma/airdrops/airdrop-5
