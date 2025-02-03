@@ -1,4 +1,9 @@
 {
     "drachma-overview": "Drachma Overview",
-    "airdrops": "Airdrops"
+    "airdrops": "Airdrops",
+    "--- RETRO FUNDING": {
+        "title": "RETRO FUNDING",
+        "type": "separator"
+    },
+    "how-retro-funding-works": "How Retro Funding Works"
 }

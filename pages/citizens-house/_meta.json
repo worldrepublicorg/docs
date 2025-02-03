@@ -5,11 +5,5 @@
         "type": "separator"
     },
     "citizenship-selection": "Citizenship Selection",
-    "experimentation-with-citizenship": "Experimentation with Citizenship",
-    "--- RETRO FUNDING": {
-        "title": "RETRO FUNDING",
-        "type": "separator"
-    },
-    "how-retro-funding-works": "How Retro Funding Works",
-    "rounds": "Past Rounds"
+    "experimentation-with-citizenship": "Experimentation with Citizenship"
 }

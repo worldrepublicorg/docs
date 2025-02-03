@@ -30,10 +30,5 @@
         "title": "HISTORY & DATA",
         "type": "separator"
     },
-    "world-assembly-history": "World Assembly Season History",
-    "world-assembly-data": {
-        "title": "Representative Vote Weight (Dune)",
-        "href": "https://dune.com/optimismfnd/optimism-op-token-house",
-        "newWindow": true
-    }
+    "world-assembly-history": "World Assembly Season History"
 }
